@@ -1,0 +1,8 @@
+C:\Users\Kirill\source\repos\TaskScheduler\TaskScheduler\bin\Debug\TaskScheduler.exe.config
+C:\Users\Kirill\source\repos\TaskScheduler\TaskScheduler\bin\Debug\TaskScheduler.exe
+C:\Users\Kirill\source\repos\TaskScheduler\TaskScheduler\bin\Debug\TaskScheduler.pdb
+C:\Users\Kirill\source\repos\TaskScheduler\TaskScheduler\obj\Debug\TaskScheduler.csproj.AssemblyReference.cache
+C:\Users\Kirill\source\repos\TaskScheduler\TaskScheduler\obj\Debug\TaskScheduler.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kirill\source\repos\TaskScheduler\TaskScheduler\obj\Debug\TaskScheduler.csproj.CoreCompileInputs.cache
+C:\Users\Kirill\source\repos\TaskScheduler\TaskScheduler\obj\Debug\TaskScheduler.exe
+C:\Users\Kirill\source\repos\TaskScheduler\TaskScheduler\obj\Debug\TaskScheduler.pdb
